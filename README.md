@@ -1,6 +1,6 @@
 ### Hello, Friend
 ##
-  Ola, eu sou o John. Me formei como Analista e Desenvolvedor de software na UNIFACIG em 2021.
+  Ola, eu sou o John. Me formei como Tecnologo em Analise e Desenvolvemento de sistemas na UNIFACIG em 2021.
 Estou sempre a procura de novos conhecimentos e tento estudar algo novo sempre que possivel.
 ##
 <div align="center">
@@ -13,9 +13,9 @@ Estou sempre a procura de novos conhecimentos e tento estudar algo novo sempre q
 
   ![Snake Gif](https://github.com/lazzyin/lazzyin/blob/output/github-contribution-grid-snake.svg)
 ##
-  "Somos camaradas, como irmãos. Então, se alguém começa a se desviar do caminho, todos nós o impedimos. Não importa o quão difícil ou doloroso seja... Nós andamos no caminho certo."
+  Somos camaradas, como irmãos. Então, se alguém começa a se desviar do caminho, todos nós o impedimos. Não importa o quão difícil ou doloroso seja... Nós andamos no caminho certo.</q>
   
---Inosuke Hashibira
+<cite>--Inosuke Hashibira</cite>
   <img align="right" alt="inosuke-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/VqQhTzWcp7MAAAAC/demon-slayer-inosuke.gif">
 
   
